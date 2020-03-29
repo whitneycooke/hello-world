@@ -1,2 +1,2 @@
 # hello-world
-hello world practice repository
+Whitney is currently learning about Git and Github
